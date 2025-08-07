@@ -1,0 +1,11 @@
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\bin\Release\LauncherUpdate.exe.config
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\bin\Release\LauncherUpdate.exe.manifest
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\bin\Release\LauncherUpdate.application
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\bin\Release\LauncherUpdate.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\bin\Release\LauncherUpdate.pdb
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\Launcher Update.csproj.GenerateResource.Cache
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\LauncherUpdate.exe.manifest
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\LauncherUpdate.application
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\LauncherUpdate.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Update\obj\Release\LauncherUpdate.pdb

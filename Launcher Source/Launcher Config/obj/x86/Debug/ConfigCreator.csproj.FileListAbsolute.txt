@@ -1,0 +1,9 @@
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\bin\Debug\ConfigCreator.exe
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\bin\Debug\ConfigCreator.pdb
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.csprojAssemblyReference.cache
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.Form1.resources
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.Properties.Resources.resources
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.csproj.GenerateResource.cache
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.csproj.CoreCompileInputs.cache
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.exe
+C:\Users\diieg\Downloads\ful\Launcher Source\Launcher Config\obj\x86\Debug\ConfigCreator.pdb

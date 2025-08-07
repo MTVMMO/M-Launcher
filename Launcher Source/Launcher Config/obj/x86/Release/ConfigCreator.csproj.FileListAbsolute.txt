@@ -1,0 +1,8 @@
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\bin\Release\ConfigCreator.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\bin\Release\ConfigCreator.pdb
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.Form1.resources
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.Properties.Resources.resources
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.csproj.GenerateResource.Cache
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.pdb
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Config\obj\x86\Release\ConfigCreator.csprojResolveAssemblyReference.cache

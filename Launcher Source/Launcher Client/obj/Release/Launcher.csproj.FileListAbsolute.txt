@@ -1,0 +1,19 @@
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\bin\Release\Launcher.exe.config
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\bin\Release\Launcher.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\bin\Release\Launcher.pdb
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\MainWindow.baml
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Settings.baml
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\MainWindow.g.cs
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Settings.g.cs
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\App.g.cs
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher_MarkupCompile.cache
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher_MarkupCompile.lref
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\App.baml
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher.g.resources
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher.exe
+C:\Users\luisz\Desktop\ful\Launcher Source\Launcher Client\obj\Release\Launcher.pdb
+C:\Users\luisz\Desktop\Laucher Zeus V1\Launcher Source\Launcher Client\bin\Release\Launcher.exe.config
+C:\Users\luisz\Desktop\Laucher Zeus V1\Launcher Source\Launcher Client\obj\Release\Launcher.exe
+C:\Users\luisz\Desktop\Laucher Zeus V1\Launcher Source\Launcher Client\obj\Release\Launcher.pdb
